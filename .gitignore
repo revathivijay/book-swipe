@@ -1,0 +1,10 @@
+# py cache files
+__pycache__
+
+# virtual environment files
+handtracker/
+
+# any generated output files
+output/
+
+*.pdf
