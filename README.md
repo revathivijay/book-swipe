@@ -1,6 +1,6 @@
 # book-swipe
 
-A simple tool to read books by swiping in the air :P
+A simple tool to read books by swiping (flipping pages) in the air :P
 
 ## Set up
 
